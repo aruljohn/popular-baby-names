@@ -2,8 +2,12 @@
 
 ## Source: Social Security (ssa.gov)
 
+UPDATE: Added popular baby names for 2020.
+
 This repository contains JSON and CSV files of the most popular 1,000 names for boys and girls born in the following years:
 
+- 2020
+- 2019
 - 2018
 - 2017
 - 2016
