@@ -2,10 +2,11 @@
 
 ## Source: Social Security (ssa.gov)
 
-UPDATE: Added popular baby names for 2024.
+UPDATE: Added popular baby names for 2025.
 
-This repository contains JSON and CSV files of the most popular 1,000 names for boys and girls born in the years 1880 through 2024:
+This repository contains JSON and CSV files of the most popular 1,000 names for boys and girls born in the years 1880 through 2025:
 
+- [2025 baby names](2025)
 - [2024 baby names](2024)
 - [2023 baby names](2023)
 - [2022 baby names](2022)
